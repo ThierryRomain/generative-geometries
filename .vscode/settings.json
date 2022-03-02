@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "files.eol": "\n",
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "eslint.workingDirectories": [
+        {
+            "mode": "auto"
+        }
+    ]
+}
